@@ -4,7 +4,10 @@ This repository contains Team LostIndex’s submission for the Loopverse Machine
 Repository Contents
 Collab notebook for preprocessing, feature extraction, and model training.
 
-models/ – Saved .keras model files (base and improved).
+models/ – Saved .keras model files (base and improved). 
+Download model here: 
+"https://drive.google.com/file/d/17OCt0DclF5ILWw_udsXFiyvXVxfgTvFJ/view?usp=drive_link" (Improved)
+"https://drive.google.com/file/d/1PNzv9gpqHJrIzNVj2W435ly9tNCwgydB/view?usp=drive_link" (Base)
 
 predictions.csv – Final predictions on the test set (image_id, predicted_label).
 
