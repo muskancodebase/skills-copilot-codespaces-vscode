@@ -16,4 +16,4 @@ report.pdf – Full project report with methodology, results, and analysis.
 README.md 
 
 Explanatory Video
-🎥 Watch our short project demo here: [Video Link Placeholder]
+🎥 Watch our short project demo here: (https://1drv.ms/v/c/3fc85ba82f18c7cf/ESOOism0r11JsOrbBCk0EhcBYPJKniKeH6v8q5_56RMILQ?e=aW8pJo)
